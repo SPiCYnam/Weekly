@@ -1,5 +1,5 @@
 #include <stdio.h>
-int main() {
+int main1() {
     int n;
     printf("count at ");
     scanf_s("%d", &n);
